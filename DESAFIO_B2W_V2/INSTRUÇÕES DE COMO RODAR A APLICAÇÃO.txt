@@ -1,5 +1,5 @@
 =================================
-PR…-REQUISITOS
+PR√â-REQUISITOS
 =================================
 
 
@@ -9,7 +9,7 @@ https://www.python.org/downloads/windows/
 
 ============================================================
 
-2- Baixar a ferramenta Pycharm(baixar a vers„o professional): 
+2- Baixar a ferramenta Pycharm(baixar a vers√£o professional): 
 
 https://www.jetbrains.com/pycharm/download/#section=windows
 
@@ -24,22 +24,24 @@ https://www.youtube.com/watch?v=5rSBPGGLkW0
 http://www.pydev.org/manual_101_interpreter.html
 
 
-2.3- PrÈ-requisitos da ferramenta PyCharm:
+2.3- Pr√©-requisitos da ferramenta PyCharm:
 
 https://www.scivision.co/python-windows-visual-c++-14-required/
 
 ================================================================
 
-3- Baixe o projeto atravÈs do link abaixo do GitHub ou baixe pelo o projeto pelo e-mail que enviei em anexo:
+3- Baixe o projeto atrav√©s do link abaixo do GitHub:
+
+https://github.com/rodrigobrs111/B2W/
 
 4- Importe o projeto para a ferramenta Pycharm
 
-5- ApÛs clique com o bot„o direito no arquivo "testaPlaneta" o teste leva alguns minutos para rodar
+5- Ap√≥s clique com o bot√£o direito no arquivo "testaPlaneta" o teste leva alguns minutos para rodar
 
-6- … necesss·rio estar conectado a internet para rodar os testes
+6- √â necesss√°rio estar conectado a internet para rodar os testes
 
 
-ObservaÁ„o: As funÁıes de adicionar e remover planeta foram criadas, porÈm pela minha pesquisa
-as requiÁıes do tipo POST e DELETE n„o s„o permitidas.
-Para finalizar, a ferramenta Pycharm foi a que escolhi para fazer o trabalho, de modo que n„o È obrigatÛrio usa-la, o teste
+Observa√ß√£o: As fun√ß√µes de adicionar e remover planeta foram criadas, por√©m pela minha pesquisa
+as requi√ß√µes do tipo POST e DELETE n√£o s√£o permitidas.
+Para finalizar, a ferramenta Pycharm foi a que escolhi para fazer o trabalho, de modo que n√£o √© obrigat√≥rio usa-la, o teste
 pode ser feito usando outras ferramentas desde que se saiba como executar os testes corretamente.
