@@ -1,0 +1,45 @@
+=================================
+PRÉ-REQUISITOS
+=================================
+
+
+1- Fazer download da ferramenta Python no link abaixo:
+
+https://www.python.org/downloads/windows/
+
+============================================================
+
+2- Baixar a ferramenta Pycharm(baixar a versão professional): 
+
+https://www.jetbrains.com/pycharm/download/#section=windows
+
+
+2.1- Configurando da ferramenta Pycharm
+
+https://www.youtube.com/watch?v=5rSBPGGLkW0
+
+
+2.2- Configurando Interpreter Python
+
+http://www.pydev.org/manual_101_interpreter.html
+
+
+2.3- Pré-requisitos da ferramenta PyCharm:
+
+https://www.scivision.co/python-windows-visual-c++-14-required/
+
+================================================================
+
+3- Baixe o projeto através do link abaixo do GitHub ou baixe pelo o projeto pelo e-mail que enviei em anexo:
+
+4- Importe o projeto para a ferramenta Pycharm
+
+5- Após clique com o botão direito no arquivo "testaPlaneta" o teste leva alguns minutos para rodar
+
+6- É necesssário estar conectado a internet para rodar os testes
+
+
+Observação: As funções de adicionar e remover planeta foram criadas, porém pela minha pesquisa
+as requições do tipo POST e DELETE não são permitidas.
+Para finalizar, a ferramenta Pycharm foi a que escolhi para fazer o trabalho, de modo que não é obrigatório usa-la, o teste
+pode ser feito usando outras ferramentas desde que se saiba como executar os testes corretamente.
